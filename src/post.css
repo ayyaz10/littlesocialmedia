@@ -1,0 +1,31 @@
+h2 {
+    color: green;
+    font-size: 15px;
+    font-weight: 600;
+    
+}
+
+.main {
+    padding: 0px 0px 20px 20px;
+    border: 1px solid #ccc;
+    width: 300px;
+    
+    margin: 10px auto;
+    margin-bottom: 10px;
+}
+
+.main>p {
+    /* width: auto; */
+    background: black;
+}
+
+.main>p>img {
+    border: 1px solid #ccc;
+    border-radius: 50%;
+    width: 200px; 
+    height: 200px;
+    margin: 0 auto;
+    display: block;
+    
+
+}
